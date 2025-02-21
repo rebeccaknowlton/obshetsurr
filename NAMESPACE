@@ -1,0 +1,5 @@
+importFrom(stats, mad, p.adjust, lm, predict, as.formula, model.matrix)
+importFrom(matrixStats, rowQuantiles)
+importFrom(mgcv, gam)
+importFrom(grf, regression_forest)
+export("obs.het.surr")

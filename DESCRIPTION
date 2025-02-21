@@ -1,0 +1,10 @@
+Package: obshetsurr
+Type: Package
+Title: Assessing Surrogate Heterogeneity in Observational Data
+Version: 1.0
+Date: 2025-02-20
+Author: Rebecca Knowlton
+Maintainer: Rebecca Knowlton <rknowlton@utexas.edu>
+Description: Provides functions to estimate the proportion of the treatment effect explained (PTE) for a surrogate as a function of multiple baseline covariates in an observational setting, with options for different base learners. More details will be available in the future in: Knowlton, R., Parast, L. (2025) "Assessing Surrogate Heterogeneity in Real World Data Using Meta-Learners." 
+License: GPL
+Imports: stats, matrixStats, mgcv, grf
