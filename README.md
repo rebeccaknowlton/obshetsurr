@@ -1,0 +1,1 @@
+This repository contains a package, obshetsurr, which provides functions to assess heterogeneity in the strength of a surrogate marker with respect to multiple baseline covariates in an observational setting, using meta-learners. Available base learners include linear, GAM, and regression forests.
